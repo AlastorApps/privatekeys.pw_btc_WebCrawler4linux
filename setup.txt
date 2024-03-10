@@ -1,7 +1,4 @@
-Well for running this script you need -:
+To make this work the steps are simple:
 
-1.selenium
-2.chromedriver for selenium (download the appropriate driver for your browser version)
-
-
-
+pip install selenium
+python automation.py
